@@ -1,0 +1,28 @@
+# Node
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+
+# Java / Gradle
+build/
+.gradle/
+out/
+*.class
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDEs
+.idea/
+*.iml
+.vscode/*
+!.vscode/extensions.json
+
+# Env & logs
+.env
+.env.*
+!.env.example
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
